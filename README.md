@@ -1,2 +1,1 @@
-# Ahmed-Mezra-IT_traning
-Calculator
+3 in 1 Calculator using Java
